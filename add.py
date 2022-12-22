@@ -1,5 +1,7 @@
 a=10
 b=20
 d=30
-c=a+b+d
+
+e=40
+c=a+b+d+e
 print(c)
