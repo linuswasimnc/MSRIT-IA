@@ -4,5 +4,6 @@ d=30
 
 e=40
 z=50
-c=a+b+d+e+z
+j=56
+c=a+b+d+e+z+j
 print(c)
